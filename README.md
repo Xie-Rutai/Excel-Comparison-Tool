@@ -141,7 +141,7 @@ Excel文件比对工具 - 一款功能全面的数据比对与提取应用程序
 3. **下载程序**
    - 克隆本仓库或下载ZIP文件
    ```bash
-   git clone https://github.com/Xie-Rutai/Excel-Comparison-Tool-.git
+   git clone https://github.com/Xie-Rutai/Excel-Comparison-Tool.git
    cd Excel-Comparison-Tool
    ```
 
