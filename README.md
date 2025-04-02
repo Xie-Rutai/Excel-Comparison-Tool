@@ -59,7 +59,7 @@ Excel文件比对工具 - 一款功能全面的数据比对与提取应用程序
       Excel比对工具主界面
     </div>
     <div style="padding: 2px; background-color: white;">
-      <img src="screenshots/屏幕截图 2025-04-02 145348.png" alt="Excel比对工具主界面" width="100%">
+      <img src="screenshots/屏幕截图2.png" alt="Excel比对工具主界面" width="100%">
     </div>
     <div style="background-color: #f9f9f9; padding: 12px; text-align: left; border-top: 1px solid #eaeaea;">
       <span style="color: #444; font-size: 0.9em;">主界面提供文件选择、比对选项设置和结果展示功能</span>
@@ -73,7 +73,7 @@ Excel文件比对工具 - 一款功能全面的数据比对与提取应用程序
       提取列管理界面
     </div>
     <div style="padding: 2px; background-color: white;">
-      <img src="screenshots/屏幕截图 2025-04-02 145306.png" alt="Excel比对工具提取列管理" width="100%">
+      <img src="screenshots/屏幕截图a.png" alt="Excel比对工具提取列管理" width="100%">
     </div>
     <div style="background-color: #f9f9f9; padding: 12px; text-align: left; border-top: 1px solid #eaeaea;">
       <span style="color: #444; font-size: 0.9em;">灵活配置提取列，支持多名称识别与主键设置</span>
@@ -87,7 +87,7 @@ Excel文件比对工具 - 一款功能全面的数据比对与提取应用程序
       比对规则管理界面
     </div>
     <div style="padding: 2px; background-color: white;">
-      <img src="screenshots/屏幕截图 2025-04-02 145249.png" alt="Excel比对工具对比规则管理" width="100%">
+      <img src="screenshots/屏幕截图1.png" alt="Excel比对工具对比规则管理" width="100%">
     </div>
     <div style="background-color: #f9f9f9; padding: 12px; text-align: left; border-top: 1px solid #eaeaea;">
       <span style="color: #444; font-size: 0.9em;">自定义比对规则，支持多条件组合和复杂匹配逻辑</span>
