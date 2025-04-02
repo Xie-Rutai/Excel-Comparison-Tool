@@ -53,6 +53,17 @@ Excel文件比对工具 - 一款功能全面的数据比对与提取应用程序
 - ✅ 文件预览功能
 - ✅ 详细操作指南和帮助文档
 
+<div align="center">
+  <img src="screenshots/屏幕截图 2025-04-02 145348.png" alt="Excel比对工具主界面" width="85%">
+</div>
+----------------------------------
+<div align="center">
+  <img src="screenshots/屏幕截图 2025-04-02 145306.png" alt="Excel比对工具提取列管理" width="85%">
+</div>
+----------------------------------
+<div align="center">
+  <img src="screenshots/屏幕截图 2025-04-02 145249.png" alt="Excel比对工具对比规则管理" width="85%">
+</div>
 ## 🚀 应用场景
 
 ### 制造业与供应链
