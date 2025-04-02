@@ -1,0 +1,89 @@
+{
+  "master_file_path": "F:/Myself/myself/Github_Tai_1/T1_8_01/VK/总.xlsx",
+  "folder_path": "F:/Myself/myself/Github_Tai_1/T1_8_01/VK",
+  "rules": [
+    {
+      "name": "PCB Assembly 规则",
+      "conditions": [
+        {
+          "column_name": "Item Desc",
+          "search_values": [
+            "PCB Assembly"
+          ],
+          "case_sensitive": false,
+          "is_regex": false,
+          "exact_match": false
+        },
+        {
+          "column_name": "Item Spec",
+          "search_values": [
+            "Source Right"
+          ],
+          "case_sensitive": false,
+          "is_regex": false,
+          "exact_match": false
+        }
+      ],
+      "match_all": true,
+      "enabled": false
+    },
+    {
+      "name": "Item Type",
+      "conditions": [
+        {
+          "column_name": "Item Type",
+          "search_values": [
+            "Item Type"
+          ],
+          "case_sensitive": false,
+          "is_regex": false,
+          "exact_match": false
+        }
+      ],
+      "match_all": true,
+      "enabled": false
+    },
+    {
+      "name": "新规则",
+      "conditions": [],
+      "match_all": true,
+      "enabled": true
+    }
+  ],
+  "extract_columns": [
+    {
+      "name": "Part No",
+      "search_names": [
+        "part no",
+        "partno",
+        "part number",
+        "partnumber",
+        "part_no",
+        "part-no",
+        "part"
+      ],
+      "enabled": false,
+      "is_primary": false
+    },
+    {
+      "name": "描述",
+      "search_names": [
+        "Item Type",
+        "From Date"
+      ],
+      "enabled": false,
+      "is_primary": false
+    },
+    {
+      "name": "规格",
+      "search_names": [
+        "From Date"
+      ],
+      "enabled": true,
+      "is_primary": true
+    }
+  ],
+  "master_sheet_name": null,
+  "exact_model_match": true,
+  "extract_all_when_no_rules": true
+}
