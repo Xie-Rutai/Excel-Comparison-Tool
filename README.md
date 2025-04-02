@@ -54,25 +54,47 @@ Excel文件比对工具 - 一款功能全面的数据比对与提取应用程序
 - ✅ 详细操作指南和帮助文档
 
 <div align="center">
-  <div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 8px; background-color: #fff; margin: 20px 0;">
-    <img src="screenshots/屏幕截图 2025-04-02 145348.png" alt="Excel比对工具主界面" width="85%">
-    <p><strong>Excel比对工具主界面</strong></p>
+  <div style="display: inline-block; max-width: 85%; margin: 25px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.1); border: 1px solid #eaeaea;">
+    <div style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); padding: 15px; color: white; font-weight: bold; font-size: 1.2em; text-align: left;">
+      Excel比对工具主界面
+    </div>
+    <div style="padding: 2px; background-color: white;">
+      <img src="screenshots/屏幕截图 2025-04-02 145348.png" alt="Excel比对工具主界面" width="100%">
+    </div>
+    <div style="background-color: #f9f9f9; padding: 12px; text-align: left; border-top: 1px solid #eaeaea;">
+      <span style="color: #444; font-size: 0.9em;">主界面提供文件选择、比对选项设置和结果展示功能</span>
+    </div>
   </div>
 </div>
 
 <div align="center">
-  <div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 8px; background-color: #fff; margin: 20px 0;">
-    <img src="screenshots/屏幕截图 2025-04-02 145306.png" alt="Excel比对工具提取列管理" width="85%">
-    <p><strong>提取列管理界面</strong></p>
+  <div style="display: inline-block; max-width: 85%; margin: 25px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.1); border: 1px solid #eaeaea;">
+    <div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); padding: 15px; color: white; font-weight: bold; font-size: 1.2em; text-align: left;">
+      提取列管理界面
+    </div>
+    <div style="padding: 2px; background-color: white;">
+      <img src="screenshots/屏幕截图 2025-04-02 145306.png" alt="Excel比对工具提取列管理" width="100%">
+    </div>
+    <div style="background-color: #f9f9f9; padding: 12px; text-align: left; border-top: 1px solid #eaeaea;">
+      <span style="color: #444; font-size: 0.9em;">灵活配置提取列，支持多名称识别与主键设置</span>
+    </div>
   </div>
 </div>
 
 <div align="center">
-  <div style="border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 8px; background-color: #fff; margin: 20px 0;">
-    <img src="screenshots/屏幕截图 2025-04-02 145249.png" alt="Excel比对工具对比规则管理" width="85%">
-    <p><strong>比对规则管理界面</strong></p>
+  <div style="display: inline-block; max-width: 85%; margin: 25px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,0.1); border: 1px solid #eaeaea;">
+    <div style="background: linear-gradient(135deg, #ff9966 0%, #ff5e62 100%); padding: 15px; color: white; font-weight: bold; font-size: 1.2em; text-align: left;">
+      比对规则管理界面
+    </div>
+    <div style="padding: 2px; background-color: white;">
+      <img src="screenshots/屏幕截图 2025-04-02 145249.png" alt="Excel比对工具对比规则管理" width="100%">
+    </div>
+    <div style="background-color: #f9f9f9; padding: 12px; text-align: left; border-top: 1px solid #eaeaea;">
+      <span style="color: #444; font-size: 0.9em;">自定义比对规则，支持多条件组合和复杂匹配逻辑</span>
+    </div>
   </div>
 </div>
+
 ## 🚀 应用场景
 
 ### 制造业与供应链
