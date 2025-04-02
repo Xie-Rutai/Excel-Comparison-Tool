@@ -1,10 +1,12 @@
 # Excel文件比对工具
 
 ![版本](https://img.shields.io/badge/版本-1.0.0-blue)
-![Python版本](https://img.shields.io/badge/Python-3.6%2B-green)
+![Python版本](https://img.shields.io/badge/Python-3.10%2B-green)
 ![许可证](https://img.shields.io/badge/许可证-MIT-orange)
 
-一款专业的Excel数据比对与提取工具，为解决大量Excel文件比对、验证和整合问题而设计。支持自定义规则引擎、智能列匹配和批量数据处理，适用于企业级数据管理场景。
+Excel文件比对工具 - 一款功能全面的数据比对与提取应用程序，专为解决企业级Excel文件管理难题而设计。本工具支持智能模型匹配、自定义规则引擎、灵活列配置和批量数据处理功能，能够高效处理大量Excel和CSV文件的比对、验证和整合任务。
+核心功能包括：自适应文件格式识别、多条件规则匹配、正则表达式支持、智能列名识别、批量文件处理、匹配结果分类展示、数据导出与合并等。适用于物料清单管理、BOM核验、产品配置对比、数据合规检查和跨系统数据迁移等场景。
+基于Python开发，具有直观的图形界面，无需编程知识即可配置和使用。支持Excel(.xlsx/.xls)和CSV文件，兼容多种编码格式，能够应对企业环境中的复杂数据比对需求。
 
 ## 📋 目录
 
@@ -97,7 +99,7 @@
 3. **下载程序**
    - 克隆本仓库或下载ZIP文件
    ```bash
-   git clone https://github.com/your-username/Excel-Comparison-Tool.git
+   git clone https://github.com/Xie-Rutai/Excel-Comparison-Tool-.git
    cd Excel-Comparison-Tool
    ```
 
