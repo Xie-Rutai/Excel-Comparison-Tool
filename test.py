@@ -250,6 +250,14 @@ class ExcelComparator:
                         rowheight=25)
         style.configure("Treeview.Heading", 
                         font=('Microsoft YaHei UI', 10, 'bold'))
+        
+        # 添加交替行颜色
+        style.map('Treeview', 
+                  background=[('selected', '#3399ff')],
+                  foreground=[('selected', 'white')])
+        
+        # 设置奇数行和偶数行的背景色
+        self.tree_tag_configure = True  # 标记是否已配置树形视图标签
     
     def create_widgets(self):
         # 创建主框架 - 使用网格布局
